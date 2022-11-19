@@ -6,7 +6,7 @@ global.region = 'Brasil'
 //=================================================//
 //—————「 Configure aqui  」—————//
 
-global.dono = ['559784388524']
+global.dono = ['6281251549899']
 global.premium = ['559784388524']
 global.prefixo = ['.']
 global.reagir1 = '🔥'
