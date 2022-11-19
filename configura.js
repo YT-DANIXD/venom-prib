@@ -6,16 +6,16 @@ global.region = 'Brasil'
 //=================================================//
 //—————「 Configure aqui  」—————//
 
-global.dono = ['559784388524']
-global.premium = ['559784388524']
+global.dono = ['6281348106274,6281251549899']
+global.premium = ['6281348106274,6281251549899']
 global.prefixo = ['.']
 global.reagir1 = '🔥'
 global.reagir2 = '🤬'
 global.reagir3 = '🤣'
 global.reagir4 = '📌'
-global.packname = '🔥νєησм'
-global.footer = 'Venom Mods' 
-global.author = 'мσ∂ѕ🔥'
+global.packname = '🔥Dani'
+global.footer = 'DaniMaker' 
+global.author = 'Maker🔥'
 global.QrNome = './VenomPrivat'
 
 global.resposta = {
